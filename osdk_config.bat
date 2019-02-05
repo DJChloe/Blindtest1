@@ -1,0 +1,12 @@
+@ECHO OFF
+
+::
+:: Set the build parameters
+::
+
+SET OSDKFILE=btest
+SET OSDKNAME=BTest1
+SET OSDKTAPNAME=BTest1
+SET OSDKDISK=%OSDKNAME%.dsk
+
+::%OSDKNAME%
